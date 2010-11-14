@@ -59,8 +59,14 @@
 * Project Euler 
 ![Project Euler](project_euler.png)
 
+
 !SLIDE 
-# Promiscuous Pair Programming #
+# Promiscuous Pair Programming - the inspiration#
+![PPP_inspiration](chad_aaron.png)
+
+!SLIDE 
+# Promiscuous Pair Programming - the site#
+https://github.com/prakashmurthy/promiscuous_pair_programming
 ![Promiscuous pair programming](promiscuous_pair_programming.png)
 
 !SLIDE bullets incremental
